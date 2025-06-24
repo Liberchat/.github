@@ -18,7 +18,8 @@
 - [Liberchat Docker](https://github.com/Liberchat/Liberchat-docker) 🐳
 - [Liberchat Linux](https://github.com/Liberchat/Liberchat-Linux) 🐧
 - [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11) 🪟
-
+- [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS) 🍏
+  
 ### Documentation
 - [Guide utilisateur](https://github.com/Liberchat/Liberchat/blob/Liberchat6.1.16/docs/Home.md)
 - [FAQ](https://github.com/Liberchat/Liberchat/wiki/FAQ)
