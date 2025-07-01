@@ -16,7 +16,7 @@
 - [Liberchat (core)](https://github.com/Liberchat/Liberchat) 💬
 - [Liberchat Android](https://github.com/Liberchat/Liberchat-android) 🤖
 - [Liberchat Docker](https://github.com/Liberchat/Liberchat-docker) 🐳
-- [Liberchat Linux](https://github.com/Liberchat/Liberchat-Linux) 🐧
+- [Liberchat Linux] (experimental ) (https://github.com/Liberchat/Liberchat-Linux) 🐧
 - [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11) 🪟
 - [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS) 🍏
   
