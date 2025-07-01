@@ -12,14 +12,33 @@
 
 ## 🌐 Annuaire des projets Liberchat
 
-### Projets principaux
-- [Liberchat (core)](https://github.com/Liberchat/Liberchat) 💬
-- [Liberchat Android](https://github.com/Liberchat/Liberchat-android) 🤖
-- [Liberchat Docker](https://github.com/Liberchat/Liberchat-docker) 🐳.(experimental ) 
-- [Liberchat Linux]
-(https://github.com/Liberchat/Liberchat-Linux) 🐧
-- [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11) 🪟
-- [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS) 🍏
+### 💬 [Liberchat (Core)](https://github.com/Liberchat/Liberchat)  
+Le cœur de l'application de messagerie libre, sécurisée et fédératrice.
+
+---
+
+### 🤖 [Liberchat Android](https://github.com/Liberchat/Liberchat-android)  
+Version mobile pour Android – pour rester libre même dans ta poche.
+
+---
+
+### 🐳 [Liberchat Docker (expérimental)](https://github.com/Liberchat/Liberchat-docker)  
+Déploiement facile et rapide avec Docker. Idéal pour l'auto-hébergement.
+
+---
+
+### 🐧 [Liberchat Linux](https://github.com/Liberchat/Liberchat-Linux)  
+Version native pour les systèmes GNU/Linux.
+
+---
+
+### 🪟 [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11)  
+Compatibilité assurée avec les systèmes Windows récents.
+
+---
+
+### 🍏 [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS)  
+Conçu aussi pour les utilisateurs de macOS, 
   
 ### Documentation
 - [Guide utilisateur](https://github.com/Liberchat/Liberchat/blob/Liberchat6.1.16/docs/Home.md)
