@@ -46,6 +46,11 @@ Conçu aussi pour les utilisateurs de macOS.
 Collection de thèmes personnalisés pour personnaliser votre interface.
 
 ---
+
+### 🏠 [Liberchat YunoHost](https://github.com/Liberchat/Liberchat_ynh)  
+Package YunoHost pour auto-hébergement simplifié (en cours de développement).
+
+---
   
 ### Documentation
 - [Guide utilisateur](https://github.com/Liberchat/Liberchat/blob/Liberchat6.1.16/docs/Home.md)
