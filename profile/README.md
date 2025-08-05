@@ -42,7 +42,7 @@ Conçu aussi pour les utilisateurs de macOS.
 
 ---
 
-### 🎨 [Liberchat Thèmes](https://github.com/Liberchat/Liberchat-themes)  
+### 🎨 [Liberchat Thèmes](https://github.com/Liberchat/Liberchat-th-mes)  
 Collection de thèmes personnalisés pour personnaliser votre interface.
 
 ---
