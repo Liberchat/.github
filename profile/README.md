@@ -38,7 +38,14 @@ Compatibilité assurée avec les systèmes Windows récents.
 ---
 
 ### 🍏 [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS)  
-Conçu aussi pour les utilisateurs de macOS, 
+Conçu aussi pour les utilisateurs de macOS.
+
+---
+
+### 🎨 [Liberchat Thèmes](https://github.com/Liberchat/Liberchat-themes)  
+Collection de thèmes personnalisés pour personnaliser votre interface.
+
+---
   
 ### Documentation
 - [Guide utilisateur](https://github.com/Liberchat/Liberchat/blob/Liberchat6.1.16/docs/Home.md)
@@ -47,7 +54,7 @@ Conçu aussi pour les utilisateurs de macOS,
 
 ---
 
-## 🏴 Pourquoi un chat libertiare militant ?
+## 🏴 Pourquoi un chat libertaire militant ?
 
 > « La communication libre est une arme. Organisons-nous, partageons, résistons ! »
 
@@ -59,8 +66,4 @@ Conçu aussi pour les utilisateurs de macOS,
 
 ---
 
-📝 [Documentations](#) | 🤝 [Contribuer](#) | 📧 [Contacter](mailto:contact@unionlibertaireanarchiste.org)
-
----
-
-**Pour toute question ou suggestion, ouvre un ticket ou contacte l’équipe !**
+**Fait par et pour la communauté, dans l'esprit de la Commune numérique.**
