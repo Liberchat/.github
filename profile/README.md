@@ -47,7 +47,7 @@ Collection de thèmes personnalisés pour personnaliser votre interface.
 
 ---
 
-### 🏠 [Liberchat YunoHost](https://github.com/Liberchat/Liberchat_ynh)  
+### 🏠 [Liberchat YunoHost](https://github.com/Liberchat/liberchatserver_ynh)  
 Package YunoHost pour auto-hébergement simplifié (en cours de développement).
 
 ---
