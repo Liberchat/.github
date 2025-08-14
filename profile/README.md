@@ -55,7 +55,7 @@ Package YunoHost pour auto-hébergement simplifié .
 ### Documentation
 - [Guide utilisateur](https://github.com/Liberchat/Liberchat/blob/Liberchat6.1.16/docs/Home.md)
 - [FAQ](https://github.com/Liberchat/Liberchat/wiki/FAQ)
-- [Support](mailto:contact@unionlibertaireanarchiste.org)
+- [Support](mailto:nasenvoyer@gmail.com)
 
 ---
 
