@@ -4,7 +4,7 @@
   <img src="assets/icons/256x256/liberchat.png" alt="Logo Liberchat" width="96" height="96" />
 </p>
 
-« Pour l'autogestion, la solidarité et la liberté numérique. Un chat libre, par et pour le peuple. »
+« Pour l'autogestion, la solidarité et la liberté numérique. Un chat libre, par et pour le prolétariat. »
 
 **Anticapitaliste · Logiciel libre · Anarcho-syndicaliste**
 
