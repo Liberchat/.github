@@ -30,8 +30,8 @@ Version mobile pour Android – pour rester libre même dans ta poche.
 
 ---
 
-### 🐳 [Liberchat Docker (expérimental)](https://github.com/Liberchat/Liberchat-docker)  
-Déploiement facile et rapide avec Docker. Idéal pour l'auto-hébergement.
+### 🐳 [Liberchat Docker ](https://github.com/Liberchat/Liberchat-docker)  
+Déploiement facile et rapide avec Docker. Idéal pour l'auto-hébergement local de test .
 
 ---
 
