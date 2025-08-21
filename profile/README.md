@@ -20,6 +20,11 @@ Site web officiel de Liberchat avec documentation, téléchargements et informat
 
 ---
 
+### ✊ [Liberchat Collectif](https://github.com/Liberchat/Liberchat-collectif)  
+Système d'adhésion autogéré pour rejoindre le collectif. Candidatures, validation et invitation automatiques.
+
+---
+
 ### 💬 [Liberchat (Core)](https://github.com/Liberchat/Liberchat)  
 Le cœur de l'application de messagerie libre, sécurisée et fédératrice.
 
@@ -60,8 +65,6 @@ Package YunoHost pour auto-hébergement simplifié.
 
 ---
 
-
-
 ## 📄 Licence
 
 **Logiciel libre sous licence MIT** - Partagez, modifiez, distribuez librement !
@@ -73,4 +76,3 @@ Voir le fichier [LICENSE](./LICENSE) pour les détails complets.
 <p align="center">
   <strong>🏴 Fait par et pour la communauté, dans l'esprit de la Commune numérique 🏴</strong>
 </p>
-
