@@ -25,10 +25,6 @@ Système d'adhésion autogéré pour rejoindre le collectif. Candidatures, valid
 
 ---
 
-### 💬 [Liberchat (Core)](https://github.com/Liberchat/Liberchat)  
-Le cœur de l'application de messagerie libre, sécurisée et fédératrice.
-
----
 
 ### 🤖 [Liberchat Android](https://github.com/Liberchat/Liberchat-android)  
 Version mobile pour Android – pour rester libre même dans ta poche.
