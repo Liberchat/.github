@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Anticapitaliste · Logiciel libre · Anarcho-syndicaliste</strong>
+  <strong>Anticapitaliste · Logiciel libre · Anarchosyndicaliste</strong>
 </p>
 
 ---
