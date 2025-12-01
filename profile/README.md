@@ -1,4 +1,4 @@
-# 🚩✊ Liberchat — La Commune Numérique
+#  Liberchat — La Commune Numérique
 <p align="center">
   <img src="assets/icons/256x256/liberchat.png" alt="Logo Liberchat" width="96" height="96" />
 </p>  
