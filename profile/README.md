@@ -20,38 +20,33 @@ Site web officiel de Liberchat avec documentation, téléchargements et informat
 
 ---
 
-### ✊ [Liberchat Collectif](https://github.com/Liberchat/Liberchat-collectif)  
-Système d'adhésion autogéré pour rejoindre le collectif. Candidatures, validation et invitation automatiques.
 
----
-
-
-### 🤖 [Liberchat Android](https://github.com/Liberchat/Liberchat-android)  
+###  [Liberchat Android](https://github.com/Liberchat/Liberchat-android)  
 Version mobile pour Android – pour rester libre même dans ta poche.
 
 ---
 
-### 🐳 [Liberchat Docker ](https://github.com/Liberchat/Liberchat-docker)  
+###  [Liberchat Docker ](https://github.com/Liberchat/Liberchat-docker)  
 Déploiement facile et rapide avec Docker. Idéal pour l'auto-hébergement local de test .
 
 ---
 
-### 🐧 [Liberchat Linux](https://github.com/Liberchat/Liberchat-Linux)  
+###  [Liberchat Linux](https://github.com/Liberchat/Liberchat-Linux)  
 Version native pour les systèmes GNU/Linux.
 
 ---
 
-### 🪟 [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11)  
+###  [Liberchat Windows 10/11](https://github.com/Liberchat/Liberchat-win10-11)  
 Compatibilité assurée avec les systèmes Windows récents.
 
 ---
 
-### 🍏 [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS)  
+###  [Liberchat macOS](https://github.com/Liberchat/Liberchat-macOS)  
 Conçu aussi pour les utilisateurs de macOS.
 
 ---
 
-### 🎨 [Liberchat Thèmes](https://github.com/Liberchat/Liberchat-th-mes)  
+###  [Liberchat Thèmes](https://github.com/Liberchat/Liberchat-th-mes)  
 Collection de thèmes personnalisés pour personnaliser votre interface.
 
 ---
@@ -63,12 +58,10 @@ Package YunoHost pour auto-hébergement simplifié.
 
 ## 📄 Licence
 
-**Logiciel libre sous licence MIT** - Partagez, modifiez, distribuez librement !
-
-Voir le fichier [LICENSE](./LICENSE) pour les détails complets.
+**Logiciel libre sous licence MIT** - Partagez, modifiez, distribuez librement 
 
 ---
 
 <p align="center">
-  <strong>🏴 Fait par et pour la communauté, dans l'esprit de la Commune numérique 🏴</strong>
+  <strong> Fait par et pour la communauté, dans l'esprit de la Commune numérique </strong>
 </p>
