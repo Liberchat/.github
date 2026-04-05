@@ -13,9 +13,9 @@
 
 ---
 
-## 🌐 Annuaire des projets Liberchat
+##  Annuaire des projets Liberchat
 
-### 🌐 [Site Officiel](https://github.com/Liberchat/Liberchat-site)  
+###  [Site Officiel](https://github.com/Liberchat/Liberchat-site)  
 Site web officiel de Liberchat avec documentation, téléchargements et informations.
 
 ---
@@ -51,12 +51,12 @@ Collection de thèmes personnalisés pour personnaliser votre interface.
 
 ---
 
-### 🏠 [Liberchat YunoHost](https://github.com/Liberchat/liberchatserver_ynh)  
+###  [Liberchat YunoHost](https://github.com/Liberchat/liberchatserver_ynh)  
 Package YunoHost pour auto-hébergement simplifié.
 
 ---
 
-## 📄 Licence
+##  Licence
 
 **Logiciel libre sous licence MIT** - Partagez, modifiez, distribuez librement 
 
